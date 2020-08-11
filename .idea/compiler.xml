@@ -11,10 +11,12 @@
         <module name="spring-boot-dockerization" />
         <module name="spring-datajpa-postgres" />
         <module name="spring-boot-rabbitmq" />
-        <module name="swagger" />
+        <module name="swagger-api-doc" />
+        <module name="spring-boot-aop" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="spring-boot-aop" target="11" />
       <module name="spring-boot-dockerization" target="8" />
       <module name="spring-boot-rabbitmq" target="11" />
       <module name="spring-datajpa-postgres" target="11" />
@@ -25,6 +27,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="spring-boot-aop" options="-parameters" />
       <module name="spring-boot-dockerization" options="-parameters" />
       <module name="spring-boot-rabbitmq" options="-parameters" />
       <module name="spring-datajpa-postgres" options="-parameters" />

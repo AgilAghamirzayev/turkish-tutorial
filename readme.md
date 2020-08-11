@@ -13,10 +13,14 @@
   - api doc link: http://localhost:8080/v2/api-docs
   - api ui link: http://localhost:8080/swagger-ui.html
   
-### Lesson4
+### Lesson 4
 - [Repository](spring-boot-rabbitmq)
 - Implemented RabbitMq Notification
   
-### Lesson5
+### Lesson 5
 - [Repository](spring-boot-dockerization)
-- Spring Boot Dockerized
+- Spring Boot Dockerized  
+
+### Lesson 6
+- [Repository](spring-boot-aop)
+- Spring Boot Aspect Oriented Programming
