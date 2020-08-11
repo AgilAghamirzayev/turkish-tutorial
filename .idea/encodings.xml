@@ -4,5 +4,6 @@
     <file url="file://$PROJECT_DIR$/spring-datajpa-postgres/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-elasticsearch/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-elasticsearch/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/swagger-api-doc/src/main/java" charset="UTF-8" />
   </component>
 </project>

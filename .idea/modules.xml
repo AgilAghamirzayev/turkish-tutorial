@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/spring-datajpa-postgres/spring-datajpa-postgres.iml" filepath="$PROJECT_DIR$/spring-datajpa-postgres/spring-datajpa-postgres.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-elasticsearch/spring-elasticsearch.iml" filepath="$PROJECT_DIR$/spring-elasticsearch/spring-elasticsearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swagger-api-doc/swagger-api-doc.iml" filepath="$PROJECT_DIR$/swagger-api-doc/swagger-api-doc.iml" />
     </modules>
   </component>
 </project>
