@@ -14,7 +14,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="spring-boot-rabbitmq" target="1.5" />
+      <module name="spring-boot-rabbitmq" target="11" />
       <module name="spring-datajpa-postgres" target="11" />
       <module name="spring-elasticsearch" target="11" />
       <module name="swagger-api-doc" target="11" />
@@ -22,6 +22,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="spring-boot-rabbitmq" options="-parameters" />
       <module name="spring-datajpa-postgres" options="-parameters" />
       <module name="spring-elasticsearch" options="-parameters" />
       <module name="swagger-api-doc" options="-parameters" />
