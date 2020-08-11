@@ -1,8 +1,10 @@
 ### Lesson 1
+- [Repository](spring-elasticsearch)
 - spring-elasticsearch
 
 ### Lesson 2
-- spring-datajpa-postgres
+- [Repository](spring-datajpa-postgres)
+- spring-dataJpa-postgres
 
 ### Lesson 3
 - [Repository](swagger-api-doc)
