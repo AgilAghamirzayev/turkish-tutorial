@@ -8,23 +8,28 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="spring-elasticsearch" />
+        <module name="spring-boot-dockerization" />
         <module name="spring-datajpa-postgres" />
         <module name="spring-boot-rabbitmq" />
-        <module name="swagger-api-doc" />
+        <module name="swagger" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="spring-boot-dockerization" target="8" />
       <module name="spring-boot-rabbitmq" target="11" />
       <module name="spring-datajpa-postgres" target="11" />
       <module name="spring-elasticsearch" target="11" />
+      <module name="swagger" target="11" />
       <module name="swagger-api-doc" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="spring-boot-dockerization" options="-parameters" />
       <module name="spring-boot-rabbitmq" options="-parameters" />
       <module name="spring-datajpa-postgres" options="-parameters" />
       <module name="spring-elasticsearch" options="-parameters" />
+      <module name="swagger" options="-parameters" />
       <module name="swagger-api-doc" options="-parameters" />
     </option>
   </component>
