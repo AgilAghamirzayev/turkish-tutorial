@@ -1,10 +1,10 @@
 ### Lesson 1
 - [Repository](spring-elasticsearch)
-- spring-elasticsearch
+- Spring boot Elasticsearch
 
 ### Lesson 2
 - [Repository](spring-datajpa-postgres)
-- spring-dataJpa-postgres
+- spring boot DataJpa Postgres
 
 ### Lesson 3
 - [Repository](swagger-api-doc)
@@ -24,3 +24,7 @@
 ### Lesson 6
 - [Repository](spring-boot-aop)
 - Spring Boot Aspect Oriented Programming
+
+### Lesson 7
+- [Repository](spring-boot-graphql)
+- Spring Boot GraphQL

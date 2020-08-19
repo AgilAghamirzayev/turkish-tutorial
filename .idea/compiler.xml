@@ -19,7 +19,7 @@
     <bytecodeTargetLevel>
       <module name="spring-boot-aop" target="11" />
       <module name="spring-boot-dockerization" target="8" />
-      <module name="spring-boot-graphql" target="11" />
+      <module name="spring-boot-graphql" target="8" />
       <module name="spring-boot-rabbitmq" target="11" />
       <module name="spring-datajpa-postgres" target="11" />
       <module name="spring-elasticsearch" target="11" />

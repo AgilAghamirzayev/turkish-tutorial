@@ -22,8 +22,51 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e2973a2-e867-48b9-8c9e-a543a99ddc8b" name="Default Changelist" comment="Spring oriented programming">
-      <change beforePath="$PROJECT_DIR$/spring-boot-aop/src/main/java/com/example/aop/service/PostService.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-aop/src/main/java/com/example/aop/service/PostService.java" afterDir="false" />
+    <list default="true" id="0e2973a2-e867-48b9-8c9e-a543a99ddc8b" name="Default Changelist" comment="Spring boot GraphQL">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_esotericsoftware_reflectasm_1_11_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_kotlin_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_26_0_jre.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_graphql_java_graphiql_spring_boot_autoconfigure_5_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_graphql_java_graphiql_spring_boot_starter_5_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_graphql_java_graphql_java_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_graphql_java_graphql_java_servlet_6_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_graphql_java_graphql_java_tools_5_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_graphql_java_graphql_spring_boot_autoconfigure_5_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_graphql_java_graphql_spring_boot_starter_5_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_graphql_java_java_dataloader_2_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_websocket_javax_websocket_api_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_antlr4_runtime_4_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_text_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_qual_2_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_annotations_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_reflect_1_3_72.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_1_3_72.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_common_1_3_72.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_configuration_processor_2_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_websocket_2_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_websocket_5_2_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-graphql/src/main/java/com/example/graphql/api/VehicleMutationResolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-graphql/src/main/java/com/example/graphql/api/VehicleQueryResolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-graphql/src/main/java/com/example/graphql/dto/VehicleDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-graphql/src/main/java/com/example/graphql/entity/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-graphql/src/main/java/com/example/graphql/repo/VehicleRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-graphql/src/main/resources/vehicle.graphqls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-graphql/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-graphql/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-graphql/src/main/java/com/example/graphql/SpringBootGraphqlApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-graphql/src/main/java/com/example/graphql/SpringBootGraphqlApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-graphql/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-graphql/src/main/resources/application.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,22 +114,25 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="14" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Facets" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.graphql.api" />
       <recent name="com.example.datajpa.service" />
       <recent name="com.example.datajpa.repository" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.graphql.dto" />
       <recent name="com.example.datajpa.dto" />
     </key>
   </component>
@@ -97,13 +143,15 @@
     </option>
   </component>
   <component name="RunManager" selected="Spring Boot.SpringBootGraphqlApplication">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -262,7 +310,8 @@
       <workItem from="1597148376611" duration="1507000" />
       <workItem from="1597151114160" duration="1245000" />
       <workItem from="1597166417762" duration="8454000" />
-      <workItem from="1597828305334" duration="1667000" />
+      <workItem from="1597828305334" duration="4218000" />
+      <workItem from="1597864637627" duration="1389000" />
     </task>
     <task id="LOCAL-00001" summary="wrote swagger api documentation&#10;a) api link: http://localhost:8080/pet&#10;b) api doc link: http://localhost:8080/v2/api-docs&#10;c) api ui link: http://localhost:8080/swagger-ui.html">
       <created>1597133813205</created>
@@ -327,7 +376,21 @@
       <option name="project" value="LOCAL" />
       <updated>1597172344908</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Spring boot GraphQL">
+      <created>1597862050968</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1597862050968</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Spring boot GraphQL">
+      <created>1597862213726</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1597862213726</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -352,17 +415,22 @@
     <MESSAGE value="Spring boot RabbitMq &#10; - implemented Docker" />
     <MESSAGE value="Spring boot RabbitMq &#10; - implemented Notification" />
     <MESSAGE value="Spring oriented programming" />
-    <option name="LAST_COMMIT_MESSAGE" value="Spring oriented programming" />
+    <MESSAGE value="Spring boot GraphQL" />
+    <option name="LAST_COMMIT_MESSAGE" value="Spring boot GraphQL" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="440" y="114" key="#Project_Structure" timestamp="1597168125846">
+    <state x="440" y="114" key="#Project_Structure" timestamp="1597865418609">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="440" y="114" key="#Project_Structure/0.0.1920.1080@0.0.1920.1080" timestamp="1597168125846" />
+    <state x="440" y="114" key="#Project_Structure/0.0.1920.1080@0.0.1920.1080" timestamp="1597865418609" />
     <state x="552" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597148449026">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="552" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1597148449026" />
+    <state x="702" y="342" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597864586312">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="702" y="342" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1597864586312" />
     <state x="765" y="256" key="#com.intellij.ide.util.MemberChooser" timestamp="1597170565751">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -391,38 +459,38 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="622" y="241" key="Github.UntrackedFilesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1597129124695" />
-    <state width="1877" height="921" key="GridCell.Tab.0.bottom" timestamp="1597178724610">
+    <state width="1877" height="231" key="GridCell.Tab.0.bottom" timestamp="1597865556946">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="921" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1597178724610" />
-    <state width="1877" height="921" key="GridCell.Tab.0.center" timestamp="1597178724610">
+    <state width="1877" height="231" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1597865556946" />
+    <state width="1877" height="231" key="GridCell.Tab.0.center" timestamp="1597865556945">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="921" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1597178724610" />
-    <state width="1877" height="921" key="GridCell.Tab.0.left" timestamp="1597178724610">
+    <state width="1877" height="231" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1597865556945" />
+    <state width="1877" height="231" key="GridCell.Tab.0.left" timestamp="1597865556945">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="921" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1597178724610" />
-    <state width="1877" height="921" key="GridCell.Tab.0.right" timestamp="1597178724610">
+    <state width="1877" height="231" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1597865556945" />
+    <state width="1877" height="231" key="GridCell.Tab.0.right" timestamp="1597865556945">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="921" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1597178724610" />
-    <state width="1877" height="921" key="GridCell.Tab.1.bottom" timestamp="1597178724610">
+    <state width="1877" height="231" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1597865556945" />
+    <state width="1877" height="231" key="GridCell.Tab.1.bottom" timestamp="1597865556946">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="921" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1597178724610" />
-    <state width="1877" height="921" key="GridCell.Tab.1.center" timestamp="1597178724610">
+    <state width="1877" height="231" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1597865556946" />
+    <state width="1877" height="231" key="GridCell.Tab.1.center" timestamp="1597865556946">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="921" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1597178724610" />
-    <state width="1877" height="921" key="GridCell.Tab.1.left" timestamp="1597178724610">
+    <state width="1877" height="231" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1597865556946" />
+    <state width="1877" height="231" key="GridCell.Tab.1.left" timestamp="1597865556946">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="921" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1597178724610" />
-    <state width="1877" height="921" key="GridCell.Tab.1.right" timestamp="1597178724610">
+    <state width="1877" height="231" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1597865556946" />
+    <state width="1877" height="231" key="GridCell.Tab.1.right" timestamp="1597865556946">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="921" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1597178724610" />
+    <state width="1877" height="231" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1597865556946" />
     <state x="540" y="275" key="IDE.errors.dialog" timestamp="1597166346422">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -435,14 +503,14 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="598" y="301" key="MultipleFileMergeDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1597149274456" />
-    <state x="461" y="185" key="SettingsEditor" timestamp="1597148254009">
+    <state x="461" y="185" key="SettingsEditor" timestamp="1597865525538">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="461" y="185" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1597148254009" />
-    <state x="741" y="450" key="Vcs.Push.Dialog.v2" timestamp="1597172346676">
+    <state x="461" y="185" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1597865525538" />
+    <state x="741" y="450" key="Vcs.Push.Dialog.v2" timestamp="1597862215900">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="741" y="450" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1597172346676" />
+    <state x="741" y="450" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1597862215900" />
     <state x="809" y="242" width="316" height="596" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1597089396507">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -451,9 +519,9 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="343" y="223" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1597861925849" />
-    <state x="616" y="250" width="672" height="677" key="run.anything.popup" timestamp="1597168279481">
+    <state x="616" y="250" width="672" height="677" key="run.anything.popup" timestamp="1597865515172">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="616" y="250" width="672" height="677" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1597168279481" />
+    <state x="616" y="250" width="672" height="677" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1597865515172" />
   </component>
 </project>
