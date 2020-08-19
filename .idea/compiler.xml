@@ -9,15 +9,17 @@
         <outputRelativeToContentRoot value="true" />
         <module name="spring-elasticsearch" />
         <module name="spring-boot-dockerization" />
-        <module name="spring-datajpa-postgres" />
         <module name="spring-boot-rabbitmq" />
-        <module name="swagger-api-doc" />
         <module name="spring-boot-aop" />
+        <module name="spring-datajpa-postgres" />
+        <module name="swagger-api-doc" />
+        <module name="spring-boot-graphql" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="spring-boot-aop" target="11" />
       <module name="spring-boot-dockerization" target="8" />
+      <module name="spring-boot-graphql" target="11" />
       <module name="spring-boot-rabbitmq" target="11" />
       <module name="spring-datajpa-postgres" target="11" />
       <module name="spring-elasticsearch" target="11" />
@@ -29,6 +31,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="spring-boot-aop" options="-parameters" />
       <module name="spring-boot-dockerization" options="-parameters" />
+      <module name="spring-boot-graphql" options="-parameters" />
       <module name="spring-boot-rabbitmq" options="-parameters" />
       <module name="spring-datajpa-postgres" options="-parameters" />
       <module name="spring-elasticsearch" options="-parameters" />
