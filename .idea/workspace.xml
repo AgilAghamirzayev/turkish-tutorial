@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0e2973a2-e867-48b9-8c9e-a543a99ddc8b" name="Default Changelist" comment="Spring oriented programming">
+      <change beforePath="$PROJECT_DIR$/spring-boot-aop/src/main/java/com/example/aop/service/PostService.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-aop/src/main/java/com/example/aop/service/PostService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2019.3.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1fueofYVIugU4ttahEprQ8scDaY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="14" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.datajpa.service" />
+      <recent name="com.example.datajpa.repository" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.datajpa.dto" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+      <command value="mvn install" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringBootGraphqlApplication">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootGraphqlApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-graphql" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.graphql.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.graphql" />
+      <option name="MAIN_CLASS_NAME" value="com.example.graphql.SpringBootGraphqlApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-elasticsearch" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RabbitApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-rabbitmq" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.rabbit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.rabbit.RabbitApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootAopApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-aop" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.aop.SpringBootAopApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDockerizationApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-dockerization" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.dockerization.SpringBootDockerizationApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootGraphqlApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-graphql" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.graphql.SpringBootGraphqlApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringDatajpaPostgresApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-datajpa-postgres" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.datajpa.SpringDataJpaPostgresApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwaggerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="swagger-api-doc" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.swagger.SwaggerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="resources.spboot-rabbitmq: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="spboot-rabbitmq" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="spring-boot-rabbitmq/src/main/resources/docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SpringBootGraphqlApplicationTests" />
+        <item itemvalue="Spring Boot.RabbitApplication" />
+        <item itemvalue="Docker.resources.spboot-rabbitmq: Compose Deployment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e2973a2-e867-48b9-8c9e-a543a99ddc8b" name="Default Changelist" comment="" />
+      <created>1597072582993</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597072582993</updated>
+      <workItem from="1597072584081" duration="338000" />
+      <workItem from="1597072954458" duration="973000" />
+      <workItem from="1597073979182" duration="326000" />
+      <workItem from="1597074336207" duration="12275000" />
+      <workItem from="1597129034091" duration="13332000" />
+      <workItem from="1597148376611" duration="1507000" />
+      <workItem from="1597151114160" duration="1245000" />
+      <workItem from="1597166417762" duration="8454000" />
+      <workItem from="1597828305334" duration="1667000" />
+    </task>
+    <task id="LOCAL-00001" summary="wrote swagger api documentation&#10;a) api link: http://localhost:8080/pet&#10;b) api doc link: http://localhost:8080/v2/api-docs&#10;c) api ui link: http://localhost:8080/swagger-ui.html">
+      <created>1597133813205</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597133813205</updated>
+    </task>
+    <task id="LOCAL-00002" summary="wrote swagger api documentation&#10;a) api link: http://localhost:8080/pet&#10;b) api doc link: http://localhost:8080/v2/api-docs&#10;c) api ui link: http://localhost:8080/swagger-ui.html">
+      <created>1597133887993</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1597133887993</updated>
+    </task>
+    <task id="LOCAL-00003" summary="wrote swagger api documentation&#10;a) api link: http://localhost:8080/pet&#10;b) api doc link: http://localhost:8080/v2/api-docs&#10;c) api ui link: http://localhost:8080/swagger-ui.html">
+      <created>1597133988414</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1597133988414</updated>
+    </task>
+    <task id="LOCAL-00004" summary="implemented">
+      <created>1597134341433</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1597134341433</updated>
+    </task>
+    <task id="LOCAL-00005" summary="implemented">
+      <created>1597134413076</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1597134413076</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Spring boot RabbitMq &#10; - implemented Docker">
+      <created>1597141390015</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1597141390015</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Spring boot RabbitMq &#10; - implemented Notification">
+      <created>1597149230206</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1597149230206</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Spring boot RabbitMq &#10; - implemented Notification">
+      <created>1597169953810</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1597169953810</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Spring oriented programming">
+      <created>1597172344908</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1597172344908</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="wrote swagger api documentation&#10;a) api link: http://localhost:8080/pet&#10;b) api doc link: http://localhost:8080/v2/api-docs&#10;c) api ui link: http://localhost:8080/swagger-ui.html" />
+    <MESSAGE value="implemented" />
+    <MESSAGE value="Spring boot RabbitMq &#10; - implemented Docker" />
+    <MESSAGE value="Spring boot RabbitMq &#10; - implemented Notification" />
+    <MESSAGE value="Spring oriented programming" />
+    <option name="LAST_COMMIT_MESSAGE" value="Spring oriented programming" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="114" key="#Project_Structure" timestamp="1597168125846">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="440" y="114" key="#Project_Structure/0.0.1920.1080@0.0.1920.1080" timestamp="1597168125846" />
+    <state x="552" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597148449026">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1597148449026" />
+    <state x="765" y="256" key="#com.intellij.ide.util.MemberChooser" timestamp="1597170565751">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="765" y="256" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1597170565751" />
+    <state x="588" y="235" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1597080901882">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="588" y="235" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1597080901882" />
+    <state x="690" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1597134299688">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="690" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1597134299688" />
+    <state x="184" y="90" key="DiffContextDialog" timestamp="1597141650740">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="184" y="90" key="DiffContextDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1597141650740" />
+    <state x="740" y="317" key="FileChooserDialogImpl" timestamp="1597166367894">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="317" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1597166367894" />
+    <state x="831" y="438" key="Github.ShareDialog" timestamp="1597129113918">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="831" y="438" key="Github.ShareDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1597129113918" />
+    <state x="622" y="241" key="Github.UntrackedFilesDialog" timestamp="1597129124695">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="622" y="241" key="Github.UntrackedFilesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1597129124695" />
+    <state width="1877" height="921" key="GridCell.Tab.0.bottom" timestamp="1597178724610">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="921" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1597178724610" />
+    <state width="1877" height="921" key="GridCell.Tab.0.center" timestamp="1597178724610">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="921" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1597178724610" />
+    <state width="1877" height="921" key="GridCell.Tab.0.left" timestamp="1597178724610">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="921" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1597178724610" />
+    <state width="1877" height="921" key="GridCell.Tab.0.right" timestamp="1597178724610">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="921" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1597178724610" />
+    <state width="1877" height="921" key="GridCell.Tab.1.bottom" timestamp="1597178724610">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="921" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1597178724610" />
+    <state width="1877" height="921" key="GridCell.Tab.1.center" timestamp="1597178724610">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="921" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1597178724610" />
+    <state width="1877" height="921" key="GridCell.Tab.1.left" timestamp="1597178724610">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="921" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1597178724610" />
+    <state width="1877" height="921" key="GridCell.Tab.1.right" timestamp="1597178724610">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="921" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1597178724610" />
+    <state x="540" y="275" key="IDE.errors.dialog" timestamp="1597166346422">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="540" y="275" key="IDE.errors.dialog/0.0.1920.1080@0.0.1920.1080" timestamp="1597166346422" />
+    <state x="873" y="181" key="Maven.ArtifactSearchDialog" timestamp="1597148516769">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="873" y="181" key="Maven.ArtifactSearchDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1597148516769" />
+    <state x="598" y="301" key="MultipleFileMergeDialog" timestamp="1597149274456">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="598" y="301" key="MultipleFileMergeDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1597149274456" />
+    <state x="461" y="185" key="SettingsEditor" timestamp="1597148254009">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="461" y="185" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1597148254009" />
+    <state x="741" y="450" key="Vcs.Push.Dialog.v2" timestamp="1597172346676">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="741" y="450" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1597172346676" />
+    <state x="809" y="242" width="316" height="596" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1597089396507">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="809" y="242" width="316" height="596" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1920.1080@0.0.1920.1080" timestamp="1597089396507" />
+    <state x="343" y="223" key="new project wizard" timestamp="1597861925849">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="343" y="223" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1597861925849" />
+    <state x="616" y="250" width="672" height="677" key="run.anything.popup" timestamp="1597168279481">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="616" y="250" width="672" height="677" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1597168279481" />
+  </component>
+</project>
